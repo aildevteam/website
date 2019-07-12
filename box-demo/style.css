@@ -1,0 +1,36 @@
+
+body {
+	text-align: left;
+	color: #FFFFFF;
+}
+
+div,img {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+img {
+ max-width: 100%; 
+ max-height: 100%; 
+ }
+ 
+a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover
+{
+	color: #C0C0C0;
+}
+
+
